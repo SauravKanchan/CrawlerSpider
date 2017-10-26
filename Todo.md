@@ -1,1 +1,2 @@
-Convert this crawler into search engine
+- [ ] Convert this crawler into search engine.
+- [ ] plagiarism checker
